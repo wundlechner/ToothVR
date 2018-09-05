@@ -1,0 +1,35 @@
+;; pyhton extensions to ignore
+
+*.log
+
+*.pot
+
+*.pyc
+
+;; LaTeX extensions to ignore
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.toc.bak
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.bcf
+*.run.xml
